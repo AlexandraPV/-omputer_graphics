@@ -6,10 +6,6 @@
 ###
 
 
-
 **Screenshots**
 ###
 <img width="586" alt="2018-02-18 14 11 52" src="https://user-images.githubusercontent.com/14141164/36351646-d51b30ee-14b5-11e8-80d6-d7c38eb57c0f.png">
-###
-
-
